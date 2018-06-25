@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="mySampleAPI">
+    <Basepaths>/mysampleproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1528479806543</CreatedAt>
+    <CreatedBy>sonidpk07@gmail.com</CreatedBy>
+    <Description>My Sample API</Description>
+    <DisplayName>mySampleAPI</DisplayName>
+    <LastModifiedAt>1528481665038</LastModifiedAt>
+    <LastModifiedBy>sonidpk07@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:79554e6e91d96450bb62b318f6eaff0036c1ce4eb030514fcf3a0bda4c6bd82e724c49c2c16c88c1eb742d450d3be54c7553c4f45cc70314075f4c204a6cb0a6</ManifestVersion>
+    <Policies>
+        <Policy>JavaScript</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://JavaScript-1.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
