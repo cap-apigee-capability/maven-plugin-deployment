@@ -9,7 +9,9 @@ We need to have both parent pom and child pom file in the folder structure. Chec
 Command to deploy the proxy in Apigee from local machine:
 
 mvn install -Ptest -Dusername={apigee-edge-email} -Dpassword={apigee-edge-password} -Dorg={apigee-edge-org}
-Above command will deploy the proxy on Apigee.
+
+
+Above command will deploy the proxy on Apigee Edge.
 
 We can follow the same folder structure to deploy other API proxies on Apigee.
 
